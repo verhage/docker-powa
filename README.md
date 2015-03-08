@@ -1,5 +1,7 @@
 # Docker images for PoWA - PostgreSQL Workload Analyzer
-PoWA is a performance measurement tool for PostgreSQL 9.4+, an open source project developed by [Dalibo](http://www.dalibo.com). I created this project as an easy way to fool around with PoWA and test its capabilities. Right now, these images are by no means suitable for production use!
+PoWA is a performance measurement tool for PostgreSQL 9.4+, an open source project developed by [Dalibo](http://www.dalibo.com). I created this project as an easy way to fool around with PoWA and test its capabilities.
+
+_In current state, these images are by no means suitable for production use!_
 
 ## The database
 The database, in the powa-db folder, is based on the [official PosgreSQL image](https://registry.hub.docker.com/_/postgres/).
