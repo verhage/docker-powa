@@ -3,6 +3,9 @@ PoWA, PostgreSQL Workload Analyzer,  is a performance measurement tool for Postg
 
 _In current state, these images are by no means suitable for production use!_
 
+## Compiled images
+Compiled images are available on my [Docker Hub profile](https://hub.docker.com/u/verhage/)
+
 ## Current version
 The images are based on PoWA 2.0.0 and PostgreSQL 9.4.1.
 
