@@ -10,7 +10,7 @@ Compiled images are available on my [Docker Hub profile](https://hub.docker.com/
 The images are based on PoWA 2.0.0 and PostgreSQL 9.4.1.
 
 ## The database
-The database, in the powa-db folder, is based on the [official PosgreSQL image](https://registry.hub.docker.com/_/postgres/).
+The database, in the powa-db folder, is based on the [official PostgreSQL image](https://registry.hub.docker.com/_/postgres/).
 
 ### pg_hba.conf
 The following line is added to pg_hba.conf to enable password login for any user, from anywhere:
